@@ -16,3 +16,15 @@ I'm a {Unity, Level Design, backend} enthusiastic game developer.
 ## Languages and Tools:
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/edgard-thobias-777b12138/">
+    <img align="left" alt="Edgard Soares | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/eddsoares8/">
+    <img align="left" alt="Edgard Soares | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:edgardsoares.ed@gmail.com">
+    <img align="left" alt="Edgard Soares | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
