@@ -6,6 +6,8 @@
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or **playing** or *working* on my **laptop** 👨‍💻
+
 ## Languages and Tools:
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/unity%20-%23000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/csharp%20-%20-%2343853D.svg?&style=for-the-badge&logo=c#&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/visualstudio%20-%2302569B.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
