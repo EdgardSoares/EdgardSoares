@@ -6,7 +6,7 @@
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or **playing** or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or **playing** or *working* on my **desktop** 👨‍💻
 
 ## Languages and Tools:
 
