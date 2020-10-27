@@ -4,11 +4,11 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 ## Languages and Tools:
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/unity%20-%2314354C.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/unity%20-%2314354C.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/visualstudio%20-%2314354C.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
